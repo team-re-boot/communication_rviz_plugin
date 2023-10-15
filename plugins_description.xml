@@ -1,0 +1,11 @@
+<library path="communication_rviz_plugin">
+  <class
+    name="communication_rviz_plugin/GameControlDataPanel"
+    type="communication_rviz_plugin::GameControlDataPanel"
+    base_class_type="rviz_common::Panel"
+  >
+    <description>
+      Show content of GameControlData.msg
+    </description>
+  </class>
+</library>
